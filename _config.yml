@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiamu Bu"
+title                    : "Jiamu Bu (卜佳木)"
 title_separator          : "-"
 name                     : &name "Jiamu Bu"
 description              : &description "personal description"
